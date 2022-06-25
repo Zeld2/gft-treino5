@@ -1,0 +1,15 @@
+C:\Users\Zeld\workspace\Gft-treino5\exer2\bin\Debug\net6.0\exer2.exe
+C:\Users\Zeld\workspace\Gft-treino5\exer2\bin\Debug\net6.0\exer2.deps.json
+C:\Users\Zeld\workspace\Gft-treino5\exer2\bin\Debug\net6.0\exer2.runtimeconfig.json
+C:\Users\Zeld\workspace\Gft-treino5\exer2\bin\Debug\net6.0\exer2.dll
+C:\Users\Zeld\workspace\Gft-treino5\exer2\bin\Debug\net6.0\exer2.pdb
+C:\Users\Zeld\workspace\Gft-treino5\exer2\obj\Debug\net6.0\exer2.csproj.AssemblyReference.cache
+C:\Users\Zeld\workspace\Gft-treino5\exer2\obj\Debug\net6.0\exer2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeld\workspace\Gft-treino5\exer2\obj\Debug\net6.0\exer2.AssemblyInfoInputs.cache
+C:\Users\Zeld\workspace\Gft-treino5\exer2\obj\Debug\net6.0\exer2.AssemblyInfo.cs
+C:\Users\Zeld\workspace\Gft-treino5\exer2\obj\Debug\net6.0\exer2.csproj.CoreCompileInputs.cache
+C:\Users\Zeld\workspace\Gft-treino5\exer2\obj\Debug\net6.0\exer2.dll
+C:\Users\Zeld\workspace\Gft-treino5\exer2\obj\Debug\net6.0\refint\exer2.dll
+C:\Users\Zeld\workspace\Gft-treino5\exer2\obj\Debug\net6.0\exer2.pdb
+C:\Users\Zeld\workspace\Gft-treino5\exer2\obj\Debug\net6.0\exer2.genruntimeconfig.cache
+C:\Users\Zeld\workspace\Gft-treino5\exer2\obj\Debug\net6.0\ref\exer2.dll
